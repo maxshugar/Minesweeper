@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfHigh_score xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="HighScores.Scores">
+  <high_score>
+    <Time>00:11:27.7115748</Time>
+    <Score_difficulty>Beginner</Score_difficulty>
+  </high_score>
+</ArrayOfHigh_score>
